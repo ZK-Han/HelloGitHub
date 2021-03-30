@@ -12,14 +12,15 @@
 </p>
 
 ## 简介
-HelloGitHub 是一个面向编程新手、开源社区新手人群的开源项目。**每月 28 号**以月刊的形式更新发布，内容包括：**有趣、入门级的开源项目**、**开源书籍**、**实战项目**、**企业级项目**等，让你用很短时间感受到编程的魅力和便捷。从而让感受到编程的乐趣，动手开始编程。
+
+HelloGitHub 分享 GitHub 上有趣、入门级的开源项目。**每月 28 号**以月刊的形式[更新发布](https://cdn.jsdelivr.net/gh/521xueweihan/img_logo@main/logo/weixin.png)，内容包括：**有趣、入门级的开源项目**、**开源书籍**、**实战项目**、**企业级项目**等，让你用很短时间感受到开源的魅力，爱上开源！
 
 ## 内容
-获得更好的阅读体验 [官网](https://hellogithub.com) 或 **HelloGitHub** 公众号。
+获得更好的阅读体验 [官网](https://hellogithub.com) 或 [HelloGitHub 公众号](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA5MzYyNzQ0MQ==&action=getalbum&album_id=1331197538447310849#wechat_redirect)。
 
 | :card_index: | :jack_o_lantern: | :beer: | :fish_cake: | :octocat: |
 | ------- | ----- | ------------ | ------ | --------- |
-| [第 59 期](/content/59/HelloGitHub59.md) | [第 58 期](/content/58/HelloGitHub58.md) | [第 57 期](/content/57/HelloGitHub57.md) | [第 56 期](/content/56/HelloGitHub56.md) |
+| [第 60 期](/content/60/HelloGitHub60.md) | [第 59 期](/content/59/HelloGitHub59.md) | [第 58 期](/content/58/HelloGitHub58.md) | [第 57 期](/content/57/HelloGitHub57.md) | [第 56 期](/content/56/HelloGitHub56.md) |
 | [第 55 期](/content/55/HelloGitHub55.md) | [第 54 期](/content/54/HelloGitHub54.md) | [第 53 期](/content/53/HelloGitHub53.md) | [第 52 期](/content/52/HelloGitHub52.md) | [第 51 期](/content/51/HelloGitHub51.md) |
 | [第 50 期](/content/50/HelloGitHub50.md) | [第 49 期](/content/49/HelloGitHub49.md) | [第 48 期](/content/48/HelloGitHub48.md) | [第 47 期](/content/47/HelloGitHub47.md) | [第 46 期](/content/46/HelloGitHub46.md) |
 | [第 45 期](/content/45/HelloGitHub45.md) | [第 44 期](/content/44/HelloGitHub44.md) | [第 43 期](/content/43/HelloGitHub43.md) | [第 42 期](/content/42/HelloGitHub42.md) | [第 41 期](/content/41/HelloGitHub41.md) |
